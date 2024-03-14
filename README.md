@@ -1,4 +1,4 @@
-![312524418-91cd9c06-dc03-4c8c-9aca-5f9e3eab0189](https://github.com/amirthaviswanathan05/study-of-basic-gates/assets/149035397/f0ef915a-a8e7-44b8-bc9d-52a9f04d170c)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
